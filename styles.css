@@ -1,7 +1,3 @@
-#grouped{
-    display: inline;
-}
-
-#boton1{
-    display:flex
+.container{
+    object-fit: cover;
 }
